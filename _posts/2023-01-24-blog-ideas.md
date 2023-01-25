@@ -11,7 +11,7 @@ image: /assets/images/image5.jpg
 
 
 ## Blog 2: Data Science Ethics Book
-![](/assets/images/atlas_ai.jpg)
+![](https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/atlas_ai.jpg)
 - Atlas of AI: Power Politics and the Planetary Costs of AI by Kate Crawford
 ![](/assets/images/data_feminism.jpg)
 - Data Feminism by Catherine D'Ignazio and Lauren F. Klein
