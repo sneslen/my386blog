@@ -13,9 +13,9 @@ image: /assets/images/image5.jpg
 ## Blog 2: Data Science Ethics Book
 ![](https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/atlas_ai.jpg)
 - Atlas of AI: Power Politics and the Planetary Costs of AI by Kate Crawford
-![](/assets/images/data_feminism.jpg)
+![](https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/data_feminism.jpg)
 - Data Feminism by Catherine D'Ignazio and Lauren F. Klein
-![](/assets/images/surveillance_capitalism.jpg)
+![](https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/surveillance_capitalism.jpg)
 - The Age of Surveillance Capitalism by Shoshana Zuboff
 
 
