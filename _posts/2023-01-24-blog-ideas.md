@@ -3,7 +3,7 @@ layout: post
 title:  "Blog Ideas"
 author: Sydney Neslen
 description: "Ideas for blog posts 1-3"
-image: /assets/images/image5.jpg
+image: /assets/images/idea.jpg
 ---
 
 ## Blog 1: How-to Ideas
