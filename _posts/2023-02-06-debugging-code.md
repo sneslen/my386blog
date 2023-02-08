@@ -2,11 +2,9 @@
 layout: post
 title:  "Debugging Code"
 author: Sydney Neslen
-description: "Feeling stuck? Try some of these tips!"
+description: "Writing code is hard enough, but getting it to actually run? Sometimes it can feel like an insurmountable task. Working for hours on a script just for it to generate a supply of error messages is enough to wear down even the most hardened of programmers. Fortunately, there are a few methods and tricks that can help with identifying and preventing problems in your code."
 image: /assets/images/blog-image.jpg
 ---
-
-Writing code is hard enough, but getting it to actually run? Sometimes it can feel like an insurmountable task. Working for hours on a script just for it to generate a supply of error messages is enough to wear down even the most hardened of programmers. Fortunately, there are a few methods and tricks that can help with identifying and preventing problems in your code.
 
 # Prevention 
 The best way to create code with no errors is to avoid creating them in the first place. By using strategies to actively prevent bugs, you will save yourself a substantial amount of time. Taking the few extra minutes to implement these principles is well worth the effort down the road. 
@@ -33,7 +31,7 @@ def add(x, y):
 Use `doctest.testmod()` to run the tests. 
 
 ### 4. Comment and label your code
-Similar to writing doctests, 
+When revisiting code after a while, it can become pretty difficult to remember the purpose or reasoning behind each line. Make sure to routinely leave a description of each function or even individual lines, especially if they are particularly complex. Writing notes in your code can help you regain your train of thought or understand important details. Commenting is extremely useful when sharing code or collaborating with others. 
 
 ### 5. Keep things simple
 
