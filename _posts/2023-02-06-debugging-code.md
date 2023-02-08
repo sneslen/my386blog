@@ -17,8 +17,18 @@ When approaching a problem, you may find yourself immediately jumping into writi
 ### 2. Run small sections at a time
 Sometimes the worst part of fixing code is pinpointing the actual issue. It can be difficult to locate the line that is causing havoc, especially if no error code appears. Instead of waiting until you have finished the whole problem to run your code, run it frequently and regularly throughout the whole process. After each step, check that your code was successful and fulfills its intended purpose. This narrows down the source of a bug to only a few possible lines. The less time you spend searching for the error, the more time you can spend solving it. 
 
-### 3. Write doc strings in functions
+### 3. Write doctests in functions
+Before writing a function, preparing tests for the desired result can be very beneficial. It also allows you to have prepared code to run once you have completed a function. Python provides a helpful procedure that facilitates testing functions called doctests. Doctests often provide a description of the function, input and output information, and examples of the function with the expected outcome. 
 
+`def add(x, y):`
+`   """`
+`   Return the sum of x and y`
+`   >>> add(1, 2)`
+`   3`
+`   """`
+`   return x + y`
+
+Use `doctest.testmod()` to run the tests. 
 
 ### 4. Comment and label your code
 
@@ -27,7 +37,7 @@ Sometimes the worst part of fixing code is pinpointing the actual issue. It can 
 
 
 
-# Solution
+# Solutions
 ### 1. What do you expect vs what happened (rubber ducking)
 ### 2. Check for typos
 ### 3. Use debugging tools
