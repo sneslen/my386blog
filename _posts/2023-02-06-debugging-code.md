@@ -3,7 +3,7 @@ layout: post
 title:  "Debugging Code"
 author: Sydney Neslen
 description: "Writing code is hard enough, but getting it to actually run? Sometimes it can feel like an insurmountable task. Working for hours on a script just for it to generate a supply of error messages is enough to wear down even the most hardened of programmers. Fortunately, there are a few methods and tricks that can help with identifying and preventing problems in your code."
-image: /assets/images/blog-image.jpg
+image: /assets/images/bug.jpg
 ---
 
 # Prevention 
