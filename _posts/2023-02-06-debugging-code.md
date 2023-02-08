@@ -20,13 +20,15 @@ Sometimes the worst part of fixing code is pinpointing the actual issue. It can 
 ### 3. Write doctests in functions
 Before writing a function, preparing tests for the desired result can be very beneficial. It also allows you to have prepared code to run once you have completed a function. Python provides a helpful procedure that facilitates testing functions called doctests. Doctests often provide a description of the function, input and output information, and examples of the function with the expected outcome. 
 
-`def add(x, y):`
-`   """`
-`   Return the sum of x and y`
-`   >>> add(1, 2)`
-`   3`
-`   """`
-`   return x + y`
+```
+def add(x, y):
+   """
+   Return the sum of x and y
+   >>> add(1, 2)
+   3
+   """
+   return x + y
+```
 
 Use `doctest.testmod()` to run the tests. 
 
