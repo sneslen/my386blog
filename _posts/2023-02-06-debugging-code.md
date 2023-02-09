@@ -31,7 +31,7 @@ def add(x, y):
 ```
 
 Use `doctest.testmod()` to run the tests. 
-DigitalOcean has a (helpful tutorial page)[https://www.digitalocean.com/community/tutorials/how-to-write-doctests-in-python] that goes more in-depth on writing and using doctests. 
+DigitalOcean has a [helpful tutorial page](https://www.digitalocean.com/community/tutorials/how-to-write-doctests-in-python) that goes more in-depth on writing and using doctests. 
 
 ### 4. Comment and label your code
 When revisiting code after a while, it can become pretty difficult to remember the purpose or reasoning behind each line. Make sure to routinely leave a description of each function or even individual lines, especially if they are particularly complex. Writing notes in your code can help you regain your train of thought or understand important details. Commenting is extremely useful when sharing code or collaborating with others. 
@@ -45,7 +45,7 @@ Using one function to fulfill multiple tasks can appear efficient, but can prove
 Even with an arsenal of skills to prevent mistakes, they are unfortunately inevitable. Debugging can be frustrating to say the least, but these tips can make it much less daunting. 
 
 ### 1. What do you expect vs what happened (rubber ducking)
-![duck](/assets/images/rubberduck.jpg)
+![duck](https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/rubberduck.jpg)
 
 ### 2. Check for typos
 
