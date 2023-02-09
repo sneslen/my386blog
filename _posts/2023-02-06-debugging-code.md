@@ -98,4 +98,8 @@ If all else fails, walk away from the problem. Hitting a wall is certainly frust
 
 <br> 
 
+---
+
+<br>
+
 Hopefully by following these techniques, you'll find yourself spending much less time debugging. Like most skills, debugging takes patience and practice. Spending the time to code thoughtfully and purposefully code will definitely pay off. If you have any debugging methods that help you, feel free to comment them down below!
