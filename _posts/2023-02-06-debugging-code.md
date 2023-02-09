@@ -45,7 +45,8 @@ Using one function to fulfill multiple tasks can appear efficient, but can prove
 Even with an arsenal of skills to prevent mistakes, they are unfortunately inevitable. Debugging can be frustrating to say the least, but these tips can make it much less daunting.  
 
 #### 1. The rubber duck method
-<img src="https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/rubberduck.jpg" alt="" style="width:400px;"/>  
+<img src="https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/rubberduck.jpg" alt="" style="width:30%; margin-left:auto; margin-right:auto;"/> 
+   
 Similar to the first prevention strategy, explaining the problem in your own words can be enlightening. This is dubbed "rubber duck debugging". To do this, just describe the problem to a rubber duck (or another inanimate object) in simple terms. Inform the duck of what you wish the code to do versus what it is currently doing. Talk about what you've tried as well as potential solutions.  Speaking out loud can shed light on a hidden bug or provide helpful insight.  
 
 #### 2. Check for typos
