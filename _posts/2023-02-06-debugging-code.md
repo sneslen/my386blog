@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Debugging Code"
+title:  "Bugs, Snakes, and Ducks Oh My! A Guide to Avoiding Pesky Errors"
 author: Sydney Neslen
-description: ""
+description: "Debugging python code can be tedious, but here are some helpful tips to make the process much easier!"
 image: /assets/images/debug.png
 ---
 
