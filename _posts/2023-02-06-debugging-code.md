@@ -31,6 +31,7 @@ def add(x, y):
 ```
 
 Use `doctest.testmod()` to run the tests. 
+DigitalOcean has a (helpful tutorial page)[https://www.digitalocean.com/community/tutorials/how-to-write-doctests-in-python] that goes more in-depth on writing and using doctests. 
 
 ### 4. Comment and label your code
 When revisiting code after a while, it can become pretty difficult to remember the purpose or reasoning behind each line. Make sure to routinely leave a description of each function or even individual lines, especially if they are particularly complex. Writing notes in your code can help you regain your train of thought or understand important details. Commenting is extremely useful when sharing code or collaborating with others. 
