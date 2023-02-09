@@ -40,11 +40,12 @@ When revisiting code after a while, it can become pretty difficult to remember t
 Using one function to fulfill multiple tasks can appear efficient, but can prove to be frustrating in the long run. Creating complex code can make it difficult to fix or change later; editing one line can cause the entire function to fail. The best approach is to write functions with a singular purpose when possible. 
 
 ---
+
 # Solutions
 Even with an arsenal of skills to prevent mistakes, they are unfortunately inevitable. Debugging can be frustrating to say the least, but these tips can make it much less daunting. 
 
 ### 1. What do you expect vs what happened (rubber ducking)
-![](/assets/images/rubberduck.jpg)
+![duck](/assets/images/rubberduck.jpg)
 
 ### 2. Check for typos
 
