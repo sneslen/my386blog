@@ -34,14 +34,28 @@ Use `doctest.testmod()` to run the tests.
 When revisiting code after a while, it can become pretty difficult to remember the purpose or reasoning behind each line. Make sure to routinely leave a description of each function or even individual lines, especially if they are particularly complex. Writing notes in your code can help you regain your train of thought or understand important details. Commenting is extremely useful when sharing code or collaborating with others. 
 
 ### 5. Keep things simple
-
+Using one function to fulfill multiple tasks can appear efficient, but can prove to be frustrating in the long run. Creating complex code can make it difficult to fix or change later; editing one line can cause the entire function to fail. The best approach is to write functions with a singular purpose when possible. 
 
 ---
 # Solutions
+
+
 ### 1. What do you expect vs what happened (rubber ducking)
+
+
 ### 2. Check for typos
+
+
 ### 3. Use debugging tools
+
+
 ### 4. Use print statements
+
+
 ### 5. Look up the problem/error message
+
+
 ### 6. Ask for help
+
+
 ### 7. Take a break
