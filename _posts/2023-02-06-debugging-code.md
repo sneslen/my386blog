@@ -2,9 +2,11 @@
 layout: post
 title:  "Debugging Code"
 author: Sydney Neslen
-description: "Writing code is hard enough, but getting it to actually run? Sometimes it can feel like an insurmountable task. Working for hours on a script just for it to generate a supply of error messages is enough to wear down even the most hardened of programmers. Fortunately, there are a few methods and tricks that can help with identifying and preventing problems in your code."
+description: ""
 image: /assets/images/debug.png
 ---
+
+Writing code is hard enough, but getting it to actually run? Sometimes it can feel like an insurmountable task. Working for hours on a script just for it to generate a supply of error messages is enough to wear down even the most hardened of programmers. Fortunately, there are a few methods and tricks that can help with identifying and preventing problems in your code.
 
 # Prevention 
 The best way to create code with no errors is to avoid creating them in the first place. By using strategies to actively prevent bugs, you will save yourself a substantial amount of time. Taking the few extra minutes to implement these principles is well worth the effort down the road. 
@@ -38,10 +40,10 @@ Using one function to fulfill multiple tasks can appear efficient, but can prove
 
 ---
 # Solutions
-
+Even with an arsenal of skills to prevent mistakes, they are unfortunately inevitable. Debugging can be frustrating to say the least, but these tips can make it much less daunting. 
 
 ### 1. What do you expect vs what happened (rubber ducking)
-
+![alt text](/assets/images/rubberduck.jpg)
 
 ### 2. Check for typos
 
@@ -59,3 +61,4 @@ Using one function to fulfill multiple tasks can appear efficient, but can prove
 
 
 ### 7. Take a break
+If all else fails, walk away from the problem. Hitting a wall is certainly frustrating, but attempting to get through it over and over again with no progress can often lead you away from the solution instead of towards. Sometimes your viewpoint is too narrow and you're just too close to the problem. Giving yourself a break can provide a fresh perspective and renewed energy when you return. 
