@@ -44,7 +44,7 @@ Using one function to fulfill multiple tasks can appear efficient, but can prove
 Even with an arsenal of skills to prevent mistakes, they are unfortunately inevitable. Debugging can be frustrating to say the least, but these tips can make it much less daunting. 
 
 ### 1. What do you expect vs what happened (rubber ducking)
-![alt text](/assets/images/rubberduck.jpg)
+![](/assets/images/rubberduck.jpg)
 
 ### 2. Check for typos
 
