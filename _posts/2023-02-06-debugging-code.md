@@ -48,21 +48,18 @@ Even with an arsenal of skills to prevent mistakes, they are unfortunately inevi
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/rubberduck.jpg" alt="" style="width:50%;"/> 
 </div>
-   
+<br>   
 Similar to the first prevention strategy, explaining the problem in your own words can be enlightening. This is dubbed "rubber duck debugging". To do this, just describe the problem to a rubber duck (or another inanimate object) in simple terms. Inform the duck of what you wish the code to do versus what it is currently doing. Talk about what you've tried as well as potential solutions.  Speaking out loud can shed light on a hidden bug or provide helpful insight.  
   
 #### 2. Check for typos
 Searching high and low for an error only to discover that it was a missing parenthesis all along can be slightly rage-inducing. Even though typos can be fairly common, they are often overlooked as the cause of a bug. These are especially difficult to locate because they are often one character hiding among hundreds or thousands. Looking at your code thoroughly instead of skimming through it can help you spot the issue. You can also try retyping pieces of code to see if there are any differences. Many code editors such as Visual Studio Code are useful for identifying typos. Different types of code turn various colors, and elements such as quotation marks, parentheses, and indents are automatically generated while you type.   
-  
-#### 3. Use debugging tools
+   
+#### 3. Use print statements
 
   
-#### 4. Use print statements
+#### 4. Look for help
 
   
-#### 5. Look for help
-
-  
-#### 6. Take a break
+#### 5. Take a break
 If all else fails, walk away from the problem. Hitting a wall is certainly frustrating, but attempting to get through it over and over again with no progress can often lead you away from the solution instead of towards. Sometimes your viewpoint is too narrow and you're just too close to the problem. Giving yourself a break can provide a fresh perspective and renewed energy when you return.  
   
