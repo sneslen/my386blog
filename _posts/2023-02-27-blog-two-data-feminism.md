@@ -6,3 +6,16 @@ description: A review of the book by Catherine D'Ignazio and Lauren F. Klein.
 image: /assets/images/data_feminism.jpg
 ---
 
+## Brief Description
+
+
+## What I Liked
+
+
+## What I Didn't Like
+
+
+## Overall Review
+
+
+## Rating
