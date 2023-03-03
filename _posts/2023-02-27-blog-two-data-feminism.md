@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Feminism"
+title:  "Data Feminism: A Well-Written Critique of Our Current Power Structures"
 author: Sydney Neslen
 description: A review of the book by Catherine D'Ignazio and Lauren F. Klein.
 image: /assets/images/data_feminism.jpg
