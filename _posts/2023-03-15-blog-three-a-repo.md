@@ -6,3 +6,8 @@ description: My process of scraping property listing data from the airbnb websit
 image: /assets/images/airbnb.jpg
 ---
 
+# Ethics
+# Description of process
+# Introduction to project
+# Conclusion leading to next post
+# Link to repo
