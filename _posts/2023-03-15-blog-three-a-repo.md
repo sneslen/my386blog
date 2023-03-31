@@ -14,7 +14,7 @@ I decided to do my analysis based on [Airbnb listings within Provo, UT](https://
 On the page, there are 18 listings of potential properties to stay at. There are a total of 15 pages, which creates 270 total properties to obtain. From each listing, I collected the title, name, price, price unit (per night, etc), number of beds, rating, superhost status, and number of photos. 
 
 To scrape a listing, I inspected the page and located the class tag to use to collect the rest of the data. 
-![](/assets/images/inspect_airbnb.jpg)
+![](/assets/images/inspect_airbnb.png)
   
 From there, I identified the class tag for each element and used them to extract the data for each listing. 
 
