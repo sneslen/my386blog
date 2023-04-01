@@ -21,20 +21,20 @@ This first one is price versus rating. it seems like there is a positive correla
 
 
 I then compared number of beds with price. Again, the two factors seem to be related, but not strongly.
-![2](/assets/images/beds_price.png)
+
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/beds_price.png" alt="" style="width:50%;"/> 
 </div>
 
 
 This scatterplot consists of rating scores and number of reviews. I was curious if the number of reviews affected a property's score, and I was surprised to see that the more reviews, the higher the score. 
-![3](/assets/images/rating_reviews.png)
+
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/rating_reviews.png" alt="" style="width:50%;"/> 
 </div>
 
 This plot presents an average of ratings and prices by city. The larger the point, the more properties in that city. The cities with six or more properties are labelled. 
-![4](/assets/images/price_rating_count.png)
+
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/price_rating_count.png" alt="" style="width:50%;"/> 
 </div>
