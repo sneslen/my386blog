@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ""
+title:  "Exploring Airbnb with Charts and Stuff"
 author: Sydney Neslen
-description:  
+description: "Following my previous post, here is some exploratory data analysis on what a promising Airbnb property consists of."
 image: /assets/images/airbnb.jpg
 ---
 # Introduction
