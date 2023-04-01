@@ -20,7 +20,7 @@ This first one is price versus rating. it seems like there is a positive correla
 </div>
 
 
-I then compared number of beds with price. Again, the two factors seem to be related, but not strongly.
+I then compared number of beds with price. Curiously, there doesn't appear to be a strong relationship. I expected there to be a steady positive correlation between the two, but it seems relatively uniform, especially when there are 1 to 4 beds. 
 
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/beds_price.png" alt="" style="width:50%;"/> 
@@ -39,5 +39,10 @@ This plot presents an average of ratings and prices by city. The larger the poin
 <img src="https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/price_rating_count.png" alt="" style="width:50%;"/> 
 </div>
 
-# Link to repository
+
+# Conclusion
+Based on this exploratory analysis, a data story is starting to emerge, detailing helpful trends relating to both prospective property owners and renters alike. The next step is piecing it together in a cohesive way in order to utilize the provided information effectively. In my next post, I will be compiling all of my discoveries for a final analysis. Make sure to check back in a couple weeks to see the results!  
+
+
+### Link to repository
 Here is a link to the [Airbnb repository](sneslen.github.io/airbnb/)!
