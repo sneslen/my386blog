@@ -13,7 +13,7 @@ Airbnb has revolutionized the travel industry by offering unique and affordable 
 ![3](/assets/images/beds_price.png)
 ![4](/assets/images/price_rating_count.png)
 
-
+![5](/assets/images/airbnb.jpg)
 
 # Link to repository
 Here is a link to the [Airbnb repository](sneslen.github.io/airbnb/)!
