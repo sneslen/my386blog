@@ -39,6 +39,12 @@ This plot presents an average of ratings and prices by city. The larger the poin
 <img src="https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/price_rating_count.png" alt="" style="width:50%;"/> 
 </div>
 
+This chart displays each county and its respective average listing price. Some counties had limited data which resulted in the averages being based on one or two property listings. 
+
+
+Similarly, this graphic shows the counties along with their average rating scores. 
+
+
 
 # Conclusion
 Based on this exploratory analysis, a data story is starting to emerge, detailing helpful trends relating to both prospective property owners and renters alike. The next step is piecing it together in a cohesive way in order to utilize the provided information effectively. In my next post, I will be compiling all of my discoveries for a final analysis. Make sure to check back in a couple weeks to see the results!  
