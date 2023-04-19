@@ -39,10 +39,11 @@ This plot presents an average of ratings and prices by city. The larger the poin
 <img src="https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/price_rating_count.png" alt="" style="width:50%;"/> 
 </div>
 
-This chart displays each county and its respective average listing price. Some counties had limited data which resulted in the averages being based on one or two property listings. 
+Overall, there doesn't seem to be much of a relationship between price and many other variables. Here is a correlation heatmap that shows that not much appears to be statistically significant when it comes to price.  
 
-
-Similarly, this graphic shows the counties along with their average rating scores. 
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/sneslen/my386blog/main/assets/images/corr_heatmap.png" alt="" style="width:50%;"/> 
+</div>
 
 
 
