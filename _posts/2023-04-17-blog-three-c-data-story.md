@@ -28,9 +28,11 @@ Overall, there aren't many meaningful patterns present in this data. I decided t
 Therefore, if we assume that rating scores are an accurate measure of quality of stay, the best way to find a good property is to check if the host is a superhost! Airbnb superhost status is granted when the host has an overall average rating of 4.8+ stars, has completed at least 10 stays, has less than a 1% cancellation rate, and has a 90% response rate. This finding definitely makes sense and shows that the superhost program is effective at identifying properties that are most likely reliable. Additionally, this data shows that paying more for a stay does not guarantee a better experience. This is good news in the sense that you can spend less but still have an enjoyable time. 
 
 
-Thanks for following along with my data journey while I explore Airbnb listings! If you haven't read my past two posts on this dataset, make sure to check those out as well for additional context. 
-[Blog Post 1](https://sneslen.github.io/my386blog/2023/03/15/blog-three-a-repo.html)
-[Blog Post 2](https://sneslen.github.io/my386blog/2023/03/15/blog-three-b-eda.html)
+Thanks for following along with my data journey while I explore Airbnb listings! If you haven't read my past two posts on this dataset, make sure to check those out as well for additional context.   
+
+[Blog Post 1](https://sneslen.github.io/my386blog/2023/03/15/blog-three-a-repo.html)  
+
+[Blog Post 2](https://sneslen.github.io/my386blog/2023/03/15/blog-three-b-eda.html)  
 
 
 
