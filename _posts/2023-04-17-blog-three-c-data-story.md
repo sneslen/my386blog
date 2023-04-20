@@ -29,6 +29,9 @@ Therefore, if we assume that rating scores are an accurate measure of quality of
 
 
 Thanks for following along with my data journey while I explore Airbnb listings! If you haven't read my past two posts on this dataset, make sure to check those out as well for additional context. 
+[Blog Post 1](https://sneslen.github.io/my386blog/2023/03/15/blog-three-a-repo.html)
+[Blog Post 2](https://sneslen.github.io/my386blog/2023/03/15/blog-three-b-eda.html)
+
 
 
 #### Link to repository
